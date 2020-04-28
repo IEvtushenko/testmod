@@ -1,3 +1,1 @@
-module github.com/IEvtushenko/testmod
-
-go 1.13
+module github.com/IEvtushenko/testmod/v2
